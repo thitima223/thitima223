@@ -49,11 +49,7 @@ I'm Thitima Naeopaya (Qew) 👋
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/thitima223">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thitima223&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Most Used Languages" />
-  </a>
-</p>
+<
 
 <!--## Hi there 👋-->
 
