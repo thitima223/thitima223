@@ -5,7 +5,7 @@ I'm Thitima Naeopaya (Qew) 👋
 
 #### Hardware
 <p align="left">
-  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SolidWorks-DD1F26?style=for-the-badge&logo=solidworks&logoColor=white" width="50" height="50" /></a>
+  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SolidWorks-DD1F26?style=for-the-badge&logo=solidworks&logoColor=white" width="100" height="100" /></a>
 
   <img src="https://img.shields.io/badge/Autodesk_Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" />
   <img src="https://img.shields.io/badge/EasyEDA-0052CC?style=for-the-badge&logo=easyeda&logoColor=white" alt="EasyEDA" />
