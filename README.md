@@ -1,5 +1,5 @@
 I'm Thitima Naeopaya (Qew) 👋
-----------------------
+-------------------
 
 (Thitima Nawpraya - This works, too. actually u can call me Qew.)
 
@@ -34,7 +34,7 @@ I'm Thitima Naeopaya (Qew) 👋
 
 
 
----
+-------------------
 
 
 
@@ -46,6 +46,12 @@ I'm Thitima Naeopaya (Qew) 👋
   </a>&nbsp;&nbsp;
   <a href="https://discord.com/users/qpartzer" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/thitima223">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thitima223&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Most Used Languages" />
   </a>
 </p>
 
