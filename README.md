@@ -40,7 +40,7 @@ I'm Thitima Naeopaya (Qew) 👋
 
 ### Contact
 <p align="left">
-    <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%20?style=square&logo=gmail&logoColor=D14836&color=FFFFFF&labelColor=FFFFFF" width="100" height="100" /></a>
+    <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%20?style=square&logo=gmail&logoColor=D14836&color=FFFFFF&labelColor=FFFFFF" width="60" height="60" /></a>
   <a href="https://www.linkedin.com/in/thitima-naeopaya-816275343" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
