@@ -5,7 +5,8 @@ I'm Thitima Naeopaya (Qew) 👋
 
 #### Hardware
 <p align="left">
-  <img src="https://img.shields.io/badge/SolidWorks-DD1F26?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks" />
+  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="file:///C:/Users/thiti/Downloads/icons8-solidworks.svg" alt="SolidWorks" width="36" height="36" /></a>
+
   <img src="https://img.shields.io/badge/Autodesk_Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" />
   <img src="https://img.shields.io/badge/EasyEDA-0052CC?style=for-the-badge&logo=easyeda&logoColor=white" alt="EasyEDA" />
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" width="36" height="36" /></a>
