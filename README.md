@@ -43,7 +43,7 @@ Thitima Naeopaya (Qew)
     <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=square&logo=gmail&logoColor=D14836&labelColor=FFFFFF" width="100" height="100" /></a>
   <a href="https://www.linkedin.com/in/thitima-naeopaya-816275343" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>&nbsp;
+  </a>
   <a href="https://discord.com/users/qpartzer" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
   </a>
