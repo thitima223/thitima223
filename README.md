@@ -27,17 +27,10 @@ Thitima Naeopaya (Qew)
 </p>  -->
 <img alt="top langs" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thitima223&layout=compact"/>
 
-
 #### Note Taking
 <p align="left">
   <a href="https://www.notion.com/th" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" width="100" height="100" /></a>
 </p>
-
-
-
--------------------
-
-
 
 ### Contact
 <p align="left">
