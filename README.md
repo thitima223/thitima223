@@ -4,13 +4,13 @@ Thitima Naeopaya (Qew)
 (Thitima Nawpraya - This works, too. actually u can call me Qew.)
 
 #### Hardware
-<p align="left">
+<!--<p align="left">
   <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SolidWorks-DD1F26?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks" />
   <a href="https://www.autodesk.com/products/fusion-360/personal target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Autodesk_Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" width="100" height="50" /></a>
   <a href="https://docs.easyeda.com/en/"><img src="https://img.shields.io/badge/EasyEDA-0052CC?style=for-the-badge&logo=easyeda&logoColor=white" width="110" height="110" /></a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" width="36" height="36" /></a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" width="36" height="36" /></a>
-</p>
+</p>-->
 
 #### Software & Programming
 <!-- <p align="left">
@@ -27,7 +27,7 @@ Thitima Naeopaya (Qew)
 </p>  -->
 <img alt="top langs" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thitima223&layout=compact"/>
 
-#### Note Taking
+<!--#### Note Taking
 <p align="left">
   <a href="https://www.notion.com/th" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" width="100" height="100" /></a>
 </p>
@@ -39,7 +39,7 @@ Thitima Naeopaya (Qew)
   <a href="https://discord.com/users/qpartzer" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
   </a>
-</p>
+</p>-->
 
 
 
