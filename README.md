@@ -6,7 +6,7 @@ Thitima Naeopaya (Qew)
 #### Hardware
 <p align="left">
   <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SolidWorks-DD1F26?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks" /></a>
-  <a href="https://www.autodesk.com/products/fusion-360/personal target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Autodesk_Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" width="180" height="180" /></a>
+  <a href="https://www.autodesk.com/products/fusion-360/personal target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Autodesk_Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" width="100" height="60" /></a>
   <a href="https://docs.easyeda.com/en/"><img src="https://img.shields.io/badge/EasyEDA-0052CC?style=for-the-badge&logo=easyeda&logoColor=white" width="110" height="110" /></a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" width="36" height="36" /></a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" width="36" height="36" /></a>
