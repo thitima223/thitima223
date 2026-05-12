@@ -24,8 +24,8 @@ Thitima Naeopaya (Qew)
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="36" height="36" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" width="36" height="36" /></a>
   <a href="https://miro.com/th/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black" width="100" height="100" /></a>
-</p>  -->
-<img alt="top langs" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thitima223&layout=compact"/>
+</p>
+<img alt="top langs" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thitima223&layout=compact"/> -->
 
 <!--#### Note Taking
 <p align="left">
