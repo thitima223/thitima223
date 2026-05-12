@@ -16,10 +16,7 @@
 ------------
 
 ### Software
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thitima223&show_icons=true&theme=dracula" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thitima223&layout=compact&theme=dracula" width="48%" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=thitima223&theme=dracula" width="100%" />
 
 ------------
 
