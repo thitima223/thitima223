@@ -5,7 +5,7 @@ Thitima Naeopaya (Qew)
 ### Hardware & Design
 <p align="left">
   <img src="https://img.shields.io/badge/SolidWorks-DD1F26?style=for-the-badge&logo=solidworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Autodesk_Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Autodesk_Fusion_360-e69138?style=for-the-badge&logo=autodesk&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/EasyEDA-0052CC?style=for-the-badge&logo=easyeda&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" height="28" />
