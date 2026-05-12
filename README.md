@@ -1,8 +1,12 @@
 Thitima Naeopaya (Qew)
+
 -------------------
 
-### (Thitima Nawpraya - This works, too. actually u can call me Qew.)
----
+
+
+(Thitima Nawpraya - This works, too. actually u can call me Qew.)
+
+
 ### Hardware & Design
 <p align="left">
   <img src="https://img.shields.io/badge/SolidWorks-DD1F26?style=for-the-badge&logo=solidworks&logoColor=white" />
