@@ -12,11 +12,12 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" height="28" />
 </p>
----
+
+--------
 
 ### Software
 
----
+--------
 
 ### Contact
 <p align="left">
