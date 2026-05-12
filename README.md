@@ -3,7 +3,6 @@ Thitima Naeopaya (Qew)
 (Thitima Nawpraya - This works, too. actually u can call me Qew.)
 ---
 ### Hardware & Design
-### 🛠 Hardware & Design
 <p align="left">
   <img src="https://img.shields.io/badge/SolidWorks-DD1F26?style=for-the-badge&logo=solidworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Autodesk_Fusion_360-e69138?style=for-the-badge&logo=autodesk&logoColor=white" height="28" />
@@ -13,16 +12,7 @@ Thitima Naeopaya (Qew)
 </p>
 
 ---
-
-### Software Development
-<p align="center">
-  <img src="https://git-stats-lime.vercel.app/api?username=thitima223&show_icons=true&count_private=true&theme=dracula&rank_icon=github&v=2" alt="GitHub Stats" width="48%" />
-  <img src="https://git-stats-lime.vercel.app/api/top-langs/?username=thitima223&layout=compact&theme=dracula&count_private=true&v=2" alt="Top Languages" width="48%" />
-</p>
-
----
-
-![snake gif](https://github.com/thitima223/thitima223/blob/output/github-contribution-grid-snake.svg)
+### Software
 
 ---
 
