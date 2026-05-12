@@ -3,6 +3,18 @@ Thitima Naeopaya (Qew)
 (Thitima Nawpraya - This works, too. actually u can call me Qew.)
 ---
 ### Hardware & Design
+### 🛠 Hardware & Design
+<p align="left">
+  <img src="https://cdn.simpleicons.org/solidworks/DD1F26" height="40" alt="SolidWorks" />
+  
+  <img src="https://cdn.simpleicons.org/autodesk/0696D7" height="40" alt="Autodesk" />
+  
+  <img src="https://img.shields.io/badge/EasyEDA-0052CC?style=for-the-badge&logo=easyeda&logoColor=white" height="28" />
+  
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="Arduino" />
+  
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="40" alt="Raspberry Pi" />
+</p>
 <p align="left">
   <img src="https://cdn.simpleicons.org/solidworks/DD1F26?style=for-the-badge&logo=solidworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Autodesk_Fusion_360-e69138?style=for-the-badge&logo=autodesk&logoColor=white" height="28" />
