@@ -13,8 +13,8 @@ Thitima Naeopaya (Qew)
 </p>-->
 
 #### Software & Programming
-<img src="https://git-stats-lime.vercel.app/api?username=thitima223&show_icons=true&count_private=true&theme=dracula&rank_icon=github" alt="GitHub Stats" />
-<img src="https://git-stats-lime.vercel.app/api/top-langs/?username=thitima223&layout=compact&theme=dracula&count_private=true" alt="Top Languages" />
+<img src="https://git-stats-lime.vercel.app/api?username=thitima223&show_icons=true&count_private=true&theme=dracula&rank_icon=github&v=2" alt="GitHub Stats" />
+<img src="https://git-stats-lime.vercel.app/api/top-langs/?username=thitima223&layout=compact&theme=dracula&count_private=true&v=2" alt="Top Languages" />
 <!-- <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" width="36" height="36" /></a>
   <a href="https://docs.microsoft.com/en-us/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" width="36" height="36" /></a>
