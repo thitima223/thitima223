@@ -1,8 +1,9 @@
 ## Thitima Naeopaya (Qew)
 
 
-(Thitima Nawpraya - This works, too. actually u can call me Qew.)
+(Thitima Nawpraya - This works, too. actually u can call me Qew.) 
 
+# [Thitima Portfolio](https://thitima-portfolio.vercel.app/)
 
 ### Hardware & Design
 <p align="left">
