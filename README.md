@@ -17,7 +17,7 @@
 ### Software develops
 
 <p align="left">
-  <img src="https://github-readme-stats-rouge-sigma-62.vercel.app/api/top-langs/?username=thitima223&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-rouge-sigma-62.vercel.app/api/top-langs/?username=thitima223&layout=compact&theme=tokyonight&count_private=true" />
 </p>
 
 ---
