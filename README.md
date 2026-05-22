@@ -4,7 +4,7 @@
 
 ---
 
-#### Hardware & Design
+### Hardware & Design
 
 <p align="left">
   <img src="https://img.shields.io/badge/SolidWorks-FF3939?style=for-the-badge&logo=dassaultsystemes&logoColor=white" height="28" />
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" height="28" />
 </p>
 
-#### Software
+### Software
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
 </p>
