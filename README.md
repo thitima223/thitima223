@@ -1,10 +1,10 @@
 ## Thitima Naeopaya (Qew)
 
-[Thitima Portfolio](https://thitima-portfolio.vercel.app/) — (Thitima Nawpraya - This works, too.) 
+[Thitima Portfolio](https://thitima-portfolio.vercel.app/) — (Thitima Nawpraya - This works, too.)
 
 ---
 
-### Hardware & Design
+### 🔩 Hardware & Design
 
 <p align="left">
   <img src="https://img.shields.io/badge/SolidWorks-FF3939?style=for-the-badge&logo=dassaultsystemes&logoColor=white" height="28" />
@@ -14,21 +14,27 @@
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" height="28" />
 </p>
 
-### Software developer
+---
+
+### 💻 Software
+
 <p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=8&hide_border=true](https://raw.githubusercontent.com/thitima223/thitima223/output/github-contribution-grid-snake-dark.svg
-https://raw.githubusercontent.com/thitima223/thitima223/output/github-contribution-grid-snake.svg)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thitima223&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
 </p>
 
+---
+
+### 🐍 Contribution Graph
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thitima223/thitima223/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thitima223/thitima223/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/thitima223/thitima223/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
 
-### Contact
+### 📬 Contact
 
 <p align="left">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
